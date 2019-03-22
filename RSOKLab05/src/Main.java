@@ -6,6 +6,8 @@ public class Main {
 		System.out.println("HELLO BRATE");
 		System.out.println("HELLO BRATE x2");
 		
+		int a;
+		
 	}
 
 }
